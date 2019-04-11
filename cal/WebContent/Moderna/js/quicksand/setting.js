@@ -1,4 +1,4 @@
-jQuery.noConflict();
+/*jQuery.noConflict();
 jQuery(document).ready(function($){
 
 if (jQuery().quicksand) {
@@ -27,4 +27,4 @@ if (jQuery().quicksand) {
 	
 }//if quicksand
 
-});
+});*/
